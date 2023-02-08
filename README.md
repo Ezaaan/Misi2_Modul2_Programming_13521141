@@ -8,5 +8,5 @@ Program merupakan program jual-beli dimana toko dapat melayani beberapa pelangga
 2. Jalankan perintah `gcc -o main main.c`
 
 ## Cara Menjalankan Program
-1. Arahkan terminal pada direktori yang terdapat file hasil kompilasi program
+1. Arahkan terminal pada direktori yang 'src' yang terdapat hasil kompilasi program
 2. Jalankan perintah `./main`
