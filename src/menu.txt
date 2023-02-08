@@ -7,7 +7,7 @@ Makanan
 Sushi
 Makanan
 20000
-10
+9
 3
 Beer
 Minuman

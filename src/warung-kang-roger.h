@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #ifndef __WARUNG_KANG_ROGER_H_
 #define __WARUNG_KANG_ROGER_H_
 
